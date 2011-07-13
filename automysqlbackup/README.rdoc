@@ -1,0 +1,18 @@
+= DESCRIPTION:
+
+Install and configure automysqlbackup script to create nightly, weekly and monthly database dumps.
+
+See http://sourceforge.net/projects/automysqlbackup/ for more info about automysqlbackup
+
+= REQUIREMENTS:
+
+MySQL cookbook required, mail utility recommended. MySQL server recipe come before automysqlbackup in run list, obviously.
+
+= ATTRIBUTES:
+
+MySQL user and password can be set in attributes/default.rb. 
+Default values are "automysqlbackup" and an auto-generated password.
+
+= LICENSE:
+
+Nominally licensed under the MIT License, but I honestly couldn't give a crap as long as you don't sue me.

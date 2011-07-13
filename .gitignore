@@ -1,0 +1,9 @@
+*.*~
+*.log
+*.out
+*.so
+*.swo
+*.swp
+.DS_Store
+.ackrc
+.rvmrc
