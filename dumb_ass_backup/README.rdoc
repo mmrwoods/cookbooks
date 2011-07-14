@@ -1,8 +1,12 @@
 = DESCRIPTION:
 
+Install and configure dumb ass daily backup and remote copy scripts to create nightly backups and copy them off-site.
+
 = REQUIREMENTS:
 
-= ATTRIBUTES:
+To use the default recipe, which just creates daily local backups, you just need the gzip binary.
 
-= USAGE:
+= LICENSE:
 
+Ah, whatever, pick one, as long as it has a clause making it clear that I provide no warranty that my useless code is
+even fit for purpose, because that's something I can't provide. You want a warranty, buy something from Oracle.
